@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">오 신기하다</string>
+    <string name="btn_right">오른쪽</string>
+    <string name="btn_left">왼쪽</string>
+    <string name="btn_next">다음</string>
+
+</resources>
